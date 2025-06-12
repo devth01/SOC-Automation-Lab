@@ -22,6 +22,7 @@ This lab project was developed to simulate and detect cyber attacks in a control
 - **Threat Detection & Response**  
   - TheHive (case management platform)  
   - Shuffle SOAR (automated alert handling and workflow orchestration)
+  - Integration of VirusTotal
 
 - **Monitoring & Visualization**  
   - Wazuh Dashboard (real-time alert monitoring)
