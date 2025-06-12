@@ -36,3 +36,4 @@ This lab project was developed to simulate and detect cyber attacks in a control
 
 ### Network Architecture Diagram
 
+![SOC Network Diagram](images/network-diagram.png)
